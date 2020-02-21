@@ -83,6 +83,8 @@
     <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
     <string name="ambient_display_always_on_title">Always on</string>
     <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="device_specific_ambient_display_title">Device specific ambient display</string>
+    <string name="device_specific_ambient_display_title_summary">Custom device specific ambient display settings</string>
 
     <!-- Ambient edge lighting -->
     <string name="pulse_ambient_light_enable_title">Ambient edge lighting</string>
