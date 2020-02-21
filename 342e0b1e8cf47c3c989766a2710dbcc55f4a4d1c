@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e2195d9e_3964b741",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2020-02-21T17:16:05Z",
+      "side": 1,
+      "message": "typo",
+      "range": {
+        "startLine": 192,
+        "startChar": 34,
+        "endLine": 192,
+        "endChar": 36
+      },
+      "revId": "342e0b1e8cf47c3c989766a2710dbcc55f4a4d1c",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
