@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "caaaba83_c9bbf6b4",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2020-02-29T18:49:15Z",
+      "side": 1,
+      "message": "Maybe better \"Advanced Device Settings\"\n\nDSS isn\u0027t that clear as it should be IMHO.",
+      "range": {
+        "startLine": 192,
+        "startChar": 41,
+        "endLine": 192,
+        "endChar": 44
+      },
+      "revId": "a7aff01c89cac947122c6413a3a03aea7793b0e2",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
