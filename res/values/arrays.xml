@@ -27,4 +27,21 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+
+    <string-array name="notification_slider_key_action_entries" translatable="false">
+        <item>@string/notification_slider_mode_none</item>
+        <item>@string/notification_slider_mode_vibrate</item>
+        <item>@string/notification_slider_mode_silent</item>
+        <item>@string/notification_slider_mode_zen</item>
+        <item>@string/notification_slider_mode_flashlight</item>
+    </string-array>
+
+    <!-- Notificaiton Slider Key -->
+    <string-array name="notification_slider_key_action_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
 </resources>
