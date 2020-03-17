@@ -25,6 +25,49 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Off</string>
 
+    <!-- DeviceParts -->
+    <string name="slider_mode_off">Off</string>
+    <string name="slider_mode_flashlight">Flashlight</string>
+    <string name="slider_mode_vibrate">Vibrate</string>
+    <string name="slider_mode_silent">Silent</string>
+    <string name="slider_mode_zen">Do not disturb</string>
+    <string name="advanced_settings">Advanced</string>
+    <string name="category_gestures_title">Device gestures</string>
+    <string name="off_screen_gesture_feedback_summary_head">Enable haptic feedback for gestures</string>
+    <string name="off_screen_gesture_feedback_title_head">Haptic feedback</string>
+    <string name="proxi_summary_head">Check proximity sensor for handling gesture and fingerprint sensor</string>
+    <string name="proxi_title_head">Proximity check</string>
+    <string name="offscreen_gesture_title">Offscreen gestures</string>
+    <string name="category_circle_gesture">O gesture</string>
+    <string name="category_down_arrow_gesture">V gesture</string>
+    <string name="category_up_arrow_gesture">A gesture</string>
+    <string name="category_left_arrow_gesture">&lt; gesture</string>
+    <string name="category_right_arrow_gesture">&gt; gesture</string>
+    <string name="category_double_swipe_gesture">II gesture</string>
+    <string name="category_down_swipe_gesture">Down swipe</string>
+    <string name="category_up_swipe_gesture">Up swipe</string>
+    <string name="category_left_swipe_gesture">Left swipe</string>
+    <string name="category_right_swipe_gesture">Right swipe</string>
+    <string name="category_gestures_summary">Configure gesture actions</string>
+    <string name="doze_category_title">Ambient display</string>
+    <string name="doze_category_summary">Wake screen when you receive notifications</string>
+    <string name="category_slider">Slider</string>
+    <string name="slider_mode_title_top">Top position</string>
+    <string name="slider_mode_title_center">Center position</string>
+    <string name="slider_mode_title_bottom">Bottom position</string>
+    <string name="graphics_title">Graphics</string>
+    <string name="dcd_mode_summary">Reduce screen flickers at low brightness</string>
+    <string name="dcd_mode_title">DC Dimming</string>
+    <string name="choose_app">Choose app</string>
+    <string name="torch_entry">Flashlight</string>
+    <string name="disabled_entry">Disabled</string>
+    <string name="camera_entry">Camera</string>
+    <string name="music_play_entry">Play / pause music</string>
+    <string name="music_prev_entry">Prev track</string>
+    <string name="music_next_entry">Next track</string>
+    <string name="not_ready_summary">Resolving...</string>
+    <string name="resolve_failed_summary">Resolving app failed</string>
+
     <!-- Device specific settings -->
     <string name="device_settings_app_name">Advanced settings</string>
 
@@ -73,6 +116,7 @@
     <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
 
     <!-- Ambient Display -->
+    <string name="ambient_display_entry">Ambient display</string>
     <string name="ambient_display_title">Ambient display</string>
     <string name="ambient_display_enable_title">Ambient display</string>
     <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
