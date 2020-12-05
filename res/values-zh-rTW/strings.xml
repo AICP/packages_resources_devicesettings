@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">開啟</string>
+    <string name="switch_bar_off">關閉</string>
+    <string name="device_settings_app_name">進階設定</string>
+    <string name="screen_gestures_panel_title">手勢</string>
+    <string name="touchscreen_gesture_extras">額外功能</string>
+    <string name="touchscreen_c_gesture_title">相機</string>
+    <string name="touchscreen_c_gesture_summary">畫出一個「C」即可啟動相機</string>
+    <string name="touchscreen_e_gesture_title">電子郵件</string>
+    <string name="touchscreen_e_gesture_summary">畫出一個「e」即可開啟電子郵件應用程式</string>
+    <string name="touchscreen_m_gesture_title">簡訊</string>
+    <string name="touchscreen_m_gesture_summary">畫出一個「M」即可開啟簡訊應用程式</string>
+    <string name="touchscreen_s_gesture_title">簡訊</string>
+    <string name="touchscreen_s_gesture_summary">畫出一個「S」即可開啟簡訊應用程式</string>
+    <string name="touchscreen_v_gesture_title">電話</string>
+    <string name="touchscreen_v_gesture_summary">畫出一個「V」即可開啟電話</string>
+    <string name="touchscreen_w_gesture_title">瀏覽器</string>
+    <string name="touchscreen_w_gesture_summary">畫出一個「W」即可開啟瀏覽器應用程式</string>
+    <string name="touchscreen_z_gesture_title">手電筒</string>
+    <string name="touchscreen_z_gesture_summary">畫出一個「Z」即可切換手電筒開關</string>
+    <string name="touchscreen_flashlight_gesture_title">手電筒</string>
+    <string name="touchscreen_flashlight_gesture_summary">畫出一個圓圈即可切換手電筒開關</string>
+    <string name="touchscreen_music_gesture_title">音樂</string>
+    <string name="touchscreen_music_gesture_summary">使用手勢控制音樂播放 \n
+    • 向下滑動來播放或暫停\n
+    • 向左滑動切換至上一首\n
+    • 向右滑動切換至下一首</string>
+    <string name="touchscreen_swipe_up_title">向上滑動</string>
+    <string name="touchscreen_swipe_right_title">向右滑動</string>
+    <string name="touchscreen_swipe_down_title">向下滑動</string>
+    <string name="touchscreen_swipe_left_title">向左滑動</string>
+    <string name="notification_slider_mode_total_silence">一律靜音</string>
+    <string name="notification_slider_mode_alarms_only">僅限鬧鐘</string>
+    <string name="notification_slider_mode_priority_only">僅限優先通知</string>
+    <string name="notification_slider_mode_silent">靜音</string>
+    <string name="notification_slider_mode_vibrate">震動</string>
+    <string name="notification_slider_mode_none">一般</string>
+    <string name="quick_charge_title">快速充電</string>
+</resources>
