@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5b4e0817_5a995068",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2020-12-11T12:27:56Z",
+      "side": 1,
+      "message": "Reference: https://review.lineageos.org/c/LineageOS/android_packages_resources_devicesettings/+/289708",
+      "revId": "6fdf982a86bf0539b181563d26291798775c4709",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
