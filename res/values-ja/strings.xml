@@ -65,7 +65,7 @@
     <string name="ambient_display_always_on_summary">時刻、通知アイコンなどの情報を表示します。電池使用量が増えます。</string>
     <string name="pulse_ambient_light_enable_title">アンビエントエッジライト</string>
     <string name="pulse_ambient_light_title">エッジライト</string>
-    <string name="pulse_ambient_light_summary">通知パルスで画面の両端をライトアップします</string>
+    <string name="pulse_ambient_light_summary">通知の点滅で画面の両端をライトアップする</string>
     <string name="pulse_ambient_light_color_title">エッジライトの色</string>
     <string name="pulse_ambient_light_color_mode_title">LED の色</string>
     <string name="pulse_ambient_light_color_mode_wall">壁紙ベース</string>
@@ -95,7 +95,7 @@
     <string name="proximity_wake_enable_summary">振って端末をスリープ解除する</string>
     <string name="actions_title">アクション</string>
     <string name="camera_gesture_title">2回ひねり</string>
-    <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを起動</string>
+    <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを起動する</string>
     <string name="chop_chop_gesture_title">2回チョップ</string>
     <string name="chop_chop_gesture_summary">2回チョップのジェスチャーでライトを切り替える</string>
     <string name="hand_wave_silencer_title">手を振ってサイレント</string>
@@ -131,9 +131,9 @@
     <string name="fingerprint_sleep_summary">指紋センサーを押すと画面を消灯する</string>
     <string name="high_touch_sensitivity_title">高感度タッチ</string>
     <string name="high_touch_sensitivity_summary">手袋を着けたまま使用できるようにタッチ画面の感度を向上させる</string>
-    <string name="device_title">詳細な端末設定</string>
+    <string name="device_title">高度な端末設定</string>
     <string name="device_summary">端末固有の設定を調整する</string>
-    <string name="display_title">表示モード</string>
+    <string name="display_title">ディスプレイモード</string>
     <string name="display_summary">ディスプレイの表示設定を調整する</string>
     <string name="srgb_mode_title">sRGB モード</string>
     <string name="hbm_mode_title">高輝度モード</string>
