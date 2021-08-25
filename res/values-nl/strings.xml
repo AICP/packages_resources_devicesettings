@@ -96,6 +96,7 @@
     <string name="feedback_intensity_medium">Gemiddeld</string>
     <string name="feedback_intensity_high">Hoog</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Uitgeschakeld</string>
     <string name="doze_settings_help_title">Help</string>
     <string name="button_panel_title">Extra knoppen</string>
     <string name="button_swap_title">Knoppen verwisselen</string>

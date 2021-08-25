@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">На основе обоев</string>
     <string name="pulse_ambient_light_color_mode_accent">Акцент</string>
     <string name="pulse_ambient_light_color_mode_custom">Пользовательский</string>
+    <string name="pulse_ambient_light_color_mode_random">Случайный</string>
     <string name="pulse_ambient_light_duration_title">Длительность свечения</string>
     <string name="pulse_ambient_light_repeat_count_title">Количество повторений</string>
     <string name="pulse_ambient_light_repeat_count_summary">Установить максимальное количество повторений. 0 для бесконечного</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">Пульсировать только в том случае, если телефон лежит лицом вверх на плоской поверхности</string>
     <string name="pick_up_gesture_title">Поднятие телефона</string>
     <string name="pick_up_gesture_summary">Пульсация уведомлений при поднятии телефона</string>
+    <string name="pick_up_wake_gesture_summary">Пробуждать устройство при поднятии</string>
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Пульсация уведомлений при извлечении из кармана</string>
     <string name="proximity_wake_title">Пробуждение по приближению</string>
@@ -115,6 +117,7 @@
     <string name="feedback_intensity_medium">Средняя</string>
     <string name="feedback_intensity_high">Высокая</string>
     <string name="dialog_ok">ОК</string>
+    <string name="disabled">Выкл</string>
     <string name="doze_settings_help_title">Помощь</string>
     <string name="doze_settings_help_text">Эти функции используют сенсоры для запуска пульсации уведомлений. Выбранный датчик включён только тогда, когда устройство получает уведомление, это помогает уменьшить потребление аккумулятора. Существует также опция включения датчика, как только экран выключится, это приведет к большему потреблению заряда аккумулятора.</string>
     <string name="button_panel_title">Дополнительные кнопки</string>
@@ -171,4 +174,6 @@
     <string name="quick_charge_summary">Переключение быстрой зарядки. Отключите зарядное устройство и подключите его после изменения этой настройки</string>
     <string name="camera_focus_fix_title">Исправление фокуса камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас возникли проблемы с отсутствием фокуса у камеры</string>
+    <string name="wake_on_gesture_title">Пробуждение жестами</string>
+    <string name="wake_on_gesture_summary">Пробуждать устройство вместо пульсации уведомлений при использовании жестов</string>
 </resources>

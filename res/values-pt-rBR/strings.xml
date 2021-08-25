@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Ativado</string>
+    <string name="switch_bar_off">Desativado</string>
+    <string name="device_settings_app_name">Configurações avançadas</string>
+    <string name="screen_gestures_panel_title">Gestos</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Vibrar ao tocar</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar quando um gesto na tela for detectado</string>
+    <string name="touchscreen_gesture_settings_title">Gestos na tela</string>
+    <string name="touchscreen_gesture_settings_summary">Faça vários gestos na tela para ações rápidas</string>
+    <string name="gesture_display_title">Gestos com tela desligada</string>
+    <string name="touchscreen_c_gesture_title">Câmera</string>
+    <string name="touchscreen_c_gesture_summary">Desenhe um \"C\" para ativar a câmera</string>
+    <string name="touchscreen_e_gesture_title">E-mail</string>
+    <string name="touchscreen_e_gesture_summary">Desenhar um \"e\" para abrir o aplicativo de e-mail</string>
+    <string name="touchscreen_m_gesture_title">Mensagens</string>
+    <string name="touchscreen_m_gesture_summary">Desenhe um \"M\" para abrir o aplicativo de mensagens</string>
+    <string name="touchscreen_s_gesture_title">Mensagens</string>
+    <string name="touchscreen_s_gesture_summary">Desenhe um \"S\" para abrir o aplicativo de mensagens</string>
+    <string name="touchscreen_v_gesture_title">Telefone</string>
+    <string name="touchscreen_v_gesture_summary">Desenhar um \"V\" para abrir o aplicativo de discagem</string>
+    <string name="touchscreen_w_gesture_title">Navegador</string>
+    <string name="touchscreen_w_gesture_summary">Desenhe uma \"W\" para abrir o aplicativo do navegador</string>
+    <string name="touchscreen_z_gesture_title">Lanterna</string>
+    <string name="touchscreen_z_gesture_summary">Desenhar um \"Z\" para alternar a lanterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Lanterna</string>
+    <string name="touchscreen_flashlight_gesture_summary">Desenhar um círculo para alternar a lanterna</string>
+    <string name="touchscreen_music_gesture_title">Música</string>
+    <string name="touchscreen_music_gesture_summary">Use gestos para controlar a reprodução de música\n
+• Deslize para baixo para reproduzir/pausar\n
+• Deslize para a esquerda para a música anterior\n
+• Deslize para a direita para próxima música</string>
+    <string name="touchscreen_swipe_up_title">Deslizar para cima</string>
+    <string name="touchscreen_swipe_right_title">Deslizar para direita</string>
+    <string name="touchscreen_swipe_down_title">Deslizar para baixo</string>
+    <string name="touchscreen_swipe_left_title">Deslizar para esquerda</string>
+    <string name="user_aware_display_title">Tela que reconhece o usuário</string>
+    <string name="user_aware_display_summary">Mantenha a tela ligada enquanto o usuário estiver na frente da tela</string>
+    <string name="ambient_display_title">Tela Ambiente</string>
+    <string name="ambient_display_enable_title">Tela Ambiente</string>
+    <string name="ambient_display_enable_summary">Ligar a tela ao receber notificações</string>
+    <string name="ambient_display_gestures_title">Gestos de tela ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos adicionais para ligar a tela</string>
+    <string name="ambient_display_summary">Ligar a tela ao receber notificações</string>
+    <string name="ambient_display_summary_on">A tela irá ligar quando você receber notificações</string>
+    <string name="ambient_display_summary_off">A tela não vai ligar quando você receber notificações</string>
+    <string name="ambient_display_always_on_title">Sempre ativado</string>
+    <string name="ambient_display_always_on_summary">Mostrar hora, ícones de notificação e outras informações. Aumenta o uso de bateria.</string>
+    <string name="pulse_ambient_light_enable_title">Iluminação ambiente do canto da tela</string>
+    <string name="pulse_ambient_light_title">Iluminação do canto da tela</string>
+    <string name="pulse_ambient_light_summary">Iluminar as bordas laterais da tela ao receber notificações</string>
+    <string name="pulse_ambient_light_color_title">Cor de iluminação do canto da tela</string>
+    <string name="pulse_ambient_light_color_mode_title">Cor do Led</string>
+    <string name="pulse_ambient_light_color_mode_wall">Baseado no papel de parede</string>
+    <string name="pulse_ambient_light_color_mode_accent">Destaque</string>
+    <string name="pulse_ambient_light_color_mode_custom">Personalizado</string>
+    <string name="pulse_ambient_light_duration_title">Duração da luz</string>
+    <string name="pulse_ambient_light_repeat_count_title">Repetir contagem</string>
+    <string name="pulse_ambient_light_repeat_count_summary">Definir contagem máxima de repetição. 0 para infinito</string>
+    <string name="pulse_ambient_light_repeat_direction_title">Repetir direção</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">Ativar para repetir o reverso, desativar para reiniciar</string>
+    <string name="pulse_ambient_light_color_automatic_title">Usar cor de notificação</string>
+    <string name="pulse_ambient_light_color_automatic_summary">Usar a cor das notificações do aplicativo para iluminação</string>
+    <string name="pulse_ambient_light_width_title">Largura fina</string>
+    <string name="tilt_sensor_title">Sensor de inclinação</string>
+    <string name="pickup_sensor_title">Sensor de movimento</string>
+    <string name="proximity_sensor_title">Sensor de proximidade</string>
+    <string name="hand_wave_gesture_title">Acenar com a mão</string>
+    <string name="hand_wave_gesture_summary">Pulsar notificações agitando a mão</string>
+    <string name="hand_wave_gesture_flat_title">Detectar orientação</string>
+    <string name="hand_wave_gesture_flat_summary">Pulsar apenas se o telefone estiver numa superfície plana</string>
+    <string name="pick_up_gesture_title">Pegar</string>
+    <string name="pick_up_gesture_summary">Pulsar notificações ao pegar o dispositivo</string>
+    <string name="pocket_gesture_title">Bolso</string>
+    <string name="pocket_gesture_summary">Pulsar notificações ao retirar do bolso</string>
+    <string name="proximity_wake_title">Acordar por proximidade</string>
+    <string name="proximity_wake_enable_title">Acordar por proximidade</string>
+    <string name="proximity_wake_enable_summary">Acordar dispositivo ao acenar com a mão</string>
+    <string name="actions_title">Ações</string>
+    <string name="camera_gesture_title">Torcer duas vezes</string>
+    <string name="camera_gesture_summary">Abrir a câmera usando o gesto de torcer duas vezes</string>
+    <string name="chop_chop_gesture_title">Sacudidas rápidas</string>
+    <string name="chop_chop_gesture_summary">Alternar lanterna ao sacudir o dispositivo</string>
+    <string name="hand_wave_silencer_title">Acenar para silenciar</string>
+    <string name="hand_wave_silencer_summary">Silenciar chamadas recebidas acenando com a mão na frente da tela</string>
+    <string name="flip_to_mute_title">Virar para Não perturbe</string>
+    <string name="flip_to_mute_summary">Silenciar notificações e chamadas ao colocar o telefone com a tela para baixo</string>
+    <string name="dnd_access">Por favor, dê ao Não Perturbe o acesso às CMActions para usar este recurso.</string>
+    <string name="lift_to_silence_title">Parar de tocar ao pegar o telefone</string>
+    <string name="lift_to_silence_summary">Levante o telefone para silenciar as chamadas. Só funciona quando o seu telefone está sobre uma superfície plana</string>
+    <string name="action_none">Desativado</string>
+    <string name="action_launch_camera">Iniciar a câmera</string>
+    <string name="action_torch">Alternar lanterna</string>
+    <string name="feedback_intensity_title">Intensidade da vibração ao tocar</string>
+    <string name="feedback_intensity_summary">Intensidade da vibração ao tocar ações de torcer duas vezes e sacudidas rápidas</string>
+    <string name="feedback_intensity_none">Desativado</string>
+    <string name="feedback_intensity_low">Fraco</string>
+    <string name="feedback_intensity_medium">Média</string>
+    <string name="feedback_intensity_high">Alto</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">Desativado</string>
+    <string name="doze_settings_help_title">Ajuda</string>
+    <string name="doze_settings_help_text">Estes recursos utilizam eventos do sensor para mostrarem notificações enquanto o dispositivo está em repouso. O sensor escolhido só é ativado quando o dispositivo recebe uma notificação, o que ajuda a reduzir a utilização da bateria. Há também uma opção para ativar o sensor escolhido assim que o tela desligar, o que resultará numa maior utilização da bateria.</string>
+    <string name="button_panel_title">Botões adicionais</string>
+    <string name="button_swap_title">Inverter botões</string>
+    <string name="button_swap_summary">Inverter a ordem dos botões recentes e voltar</string>
+    <string name="fingerprint_title">Impressão digital</string>
+    <string name="fingerprint_as_home_title">Impressão digital no início</string>
+    <string name="fingerprint_as_home_summary">Usar o sensor de impressão digital como botão Início</string>
+    <string name="fingerprint_wakeup_title">Ligar tela com impressão digital</string>
+    <string name="fingerprint_wakeup_summary">Permitir que o sensor de impressões digitais ative o dispositivo enquanto a tela estiver desligada</string>
+    <string name="fingerprint_pocketmode_title">Prevenir toques acidentais</string>
+    <string name="fingerprint_pocketmode_summary">Verificar o sensor de proximidade antes de ligar a tela do dispositivo com a impressão digital</string>
+    <string name="fingerprint_sleep_title">Suspender com impressão digital</string>
+    <string name="fingerprint_sleep_summary">Pressione o sensor de impressão digital para desligar a tela</string>
+    <string name="high_touch_sensitivity_title">Alta sensibilidade ao toque</string>
+    <string name="high_touch_sensitivity_summary">Aumenta a sensibilidade da tela para poder ser usada enquanto estiver usando luvas</string>
+    <string name="device_title">Configurações Avançadas do Dispositivo</string>
+    <string name="device_summary">Ajustar configurações específicas do dispositivo</string>
+    <string name="display_title">Modos de exibição</string>
+    <string name="display_summary">Ajustar configurações e preferências para tela</string>
+    <string name="srgb_mode_title">modo sRGB</string>
+    <string name="hbm_mode_title">Modo de brilho alto</string>
+    <string name="dc_mode_title">Escurecimento DC</string>
+    <string name="dci_mode_title">Display-P3</string>
+    <string name="Wide_mode_title">AMOLED de alta fidelidade</string>
+    <string name="panel_category_title">Modos de painel</string>
+    <string name="panel_category_summary">Modos para corrigir a cor do painel</string>
+    <string name="off_mode_title">Desativado</string>
+    <string name="tile_panel_mode">Modos de painel</string>
+    <string name="tile_hbm_mode">Modo brilho máximo</string>
+    <string name="tile_dc_mode">Escurecimento DC</string>
+    <string name="notification_slider_category_title">Controle deslizante de notificação</string>
+    <string name="notification_slider_selection_dialog_title">Acão</string>
+    <string name="notification_slider_top_position">Posição superior</string>
+    <string name="notification_slider_middle_position">Posição central</string>
+    <string name="notification_slider_bottom_position">Posição inferior</string>
+    <string name="notification_slider_mode_total_silence">Silêncio total</string>
+    <string name="notification_slider_mode_alarms_only">Somente alarmes</string>
+    <string name="notification_slider_mode_priority_only">Somente Prioridade</string>
+    <string name="notification_slider_mode_silent">Silencioso</string>
+    <string name="notification_slider_mode_vibrate">Vibração</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="buttons_dashboard_summary">Configurações do controle deslizante de alerta</string>
+    <string name="category_vibrator">Vibração</string>
+    <string name="vib_strength_title_head">Intensidade do sistema</string>
+    <string name="vib_strength_summary_head">Definir intensidade da vibração</string>
+    <string name="vib_call_strength_title_head">Intensidade de chamada</string>
+    <string name="vib_call_strength_summary_head">Definir a intensidade da vibração durante uma chamada recebida</string>
+    <string name="vib_notif_strength_title_head">Intensidade da notificação</string>
+    <string name="vib_notif_strength_summary_head">Definir intensidade da vibração durante a chegada de uma notificação</string>
+    <string name="pulse_on_new_tracks_title">Ícone de música ambiente</string>
+    <string name="pulse_on_new_tracks_summary">Mostrar a tela ambiente quando uma nova música for reproduzida</string>
+    <string name="quick_charge_title">Carregamento rápido</string>
+    <string name="quick_charge_summary">Alternar o carregamento rápido. Desconecte e reconecte o carregador após alterar esta configuração</string>
+    <string name="camera_focus_fix_title">Correção de foco da câmera</string>
+    <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
+</resources>

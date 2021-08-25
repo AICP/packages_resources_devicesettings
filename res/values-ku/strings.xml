@@ -24,16 +24,16 @@
     <string name="touchscreen_gesture_haptic_feedback">وڵامدانەوەی دەسلێدان</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">لەرینەوە لەکاتی پێزانینی جوڵاندنی پەنجە لەسەر ڕوونما</string>
     <string name="touchscreen_gesture_settings_title">جوڵانەکانی دەسلێدانی ڕوونما</string>
-    <string name="touchscreen_gesture_settings_summary">ئەنجامدانی جوڵانەوەی هەمەجۆری دەسلێدان بۆ کردە خێراکان</string>
+    <string name="touchscreen_gesture_settings_summary">ئەنجامدانی جوڵانەوەی فرەجۆری دەسلێدان بۆ کردە خێراکان</string>
     <string name="gesture_display_title">جوڵانەوەکانی ڕوونماداخراو</string>
     <string name="touchscreen_c_gesture_title">کامێرا</string>
     <string name="touchscreen_c_gesture_summary">\'C\' بکێشە بۆ چالاککردنی کامێرا</string>
     <string name="touchscreen_e_gesture_title">ئیمەیڵ</string>
     <string name="touchscreen_e_gesture_summary">\"e\" بکێشە بۆ کردنەوەی ئەپی ئیمەیڵ</string>
-    <string name="touchscreen_m_gesture_title">نامەکان</string>
-    <string name="touchscreen_m_gesture_summary">\"M\" بکێشە بۆ کردنەوەی ئەپی نامەکان</string>
-    <string name="touchscreen_s_gesture_title">نامەکان</string>
-    <string name="touchscreen_s_gesture_summary">\"S\" بکێشە بۆ کردنەوەی ئەپی نامەکان</string>
+    <string name="touchscreen_m_gesture_title">پەیڤین</string>
+    <string name="touchscreen_m_gesture_summary">\"M\" بکێشە بۆ کردنەوەی ئەپی پەیڤین</string>
+    <string name="touchscreen_s_gesture_title">پەیڤین</string>
+    <string name="touchscreen_s_gesture_summary">\"S\" بکێشە بۆ کردنەوەی ئەپی پەیڤین</string>
     <string name="touchscreen_v_gesture_title">پەیوەندی</string>
     <string name="touchscreen_v_gesture_summary">\"V\" بکێشە بۆ کردنەوەی ئەپی پەیوەندی</string>
     <string name="touchscreen_w_gesture_title">وێبگەر</string>
@@ -43,16 +43,16 @@
     <string name="touchscreen_flashlight_gesture_title">فلاش لایت</string>
     <string name="touchscreen_flashlight_gesture_summary">بازنەیەک بکێشە بۆ کاراکردنی فلاش لایت</string>
     <string name="touchscreen_music_gesture_title">میوزیک</string>
-    <string name="touchscreen_music_gesture_summary">جوڵەکان بەکاربهێنە بۆ کۆنتڕۆڵکردنی کارپێکەری میوزیک \n
-    • ڕاکێشان بۆ خوارەوە بۆ لێدان/ڕاگرتن\n
+    <string name="touchscreen_music_gesture_summary">جوڵەکان بەکاربهێنە بۆ کۆنتڕۆڵکردنی لێدەری میوزیک \n
+    • ڕاکێشان بۆ خوارەوە بۆ لێدان/وەستان\n
     • ڕاکێشان بۆ چەپ بۆ گێڕانەوە بۆ تراکی پێشوو\n
     • ڕاکێشان بۆ ڕاست بۆ تراکی دواتر</string>
     <string name="touchscreen_swipe_up_title">ڕاکێشانە سەرەوە</string>
     <string name="touchscreen_swipe_right_title">ڕاکێشان بۆلای ڕاست</string>
     <string name="touchscreen_swipe_down_title">ڕاکێشان بۆ خوارەوە</string>
     <string name="touchscreen_swipe_left_title">ڕاکێشان بۆ لای چەپ</string>
-    <string name="user_aware_display_title">پیشاندانی بەئاگا-بەکارهێنەر</string>
-    <string name="user_aware_display_summary">هێشتنەوە ڕوونما بەچالاکی کاتێ بەکاربەر تەماشای ڕوونما ئەکات</string>
+    <string name="user_aware_display_title">ڕوونمای بەئاگا-بەکارهێنەر</string>
+    <string name="user_aware_display_summary">هێشتنەوەی ڕوونما بەچالاکی کاتێ بەکاربەر تەماشای ڕوونما ئەکات</string>
     <string name="ambient_display_title">ڕوونمای زیندوو</string>
     <string name="ambient_display_enable_title">ڕوونمای زیندوو</string>
     <string name="ambient_display_enable_summary">هەڵبوونی ڕوونما کاتی پێگەیشتنی ئاگانامەکان</string>
@@ -61,22 +61,22 @@
     <string name="ambient_display_summary">هەڵبوونی ڕوونما کاتی پێگەیشتنی ئاگانامەکان</string>
     <string name="ambient_display_summary_on">ڕوونماکەت هەڵدەبێت لەکاتی هاتنی هەر ئاگانامەیەک</string>
     <string name="ambient_display_summary_off">ڕوونماکەت هەڵنابێت لەکاتی هاتنی هەر ئاگانامەیەک</string>
-    <string name="ambient_display_always_on_title">هه‌میشه‌ کراوه‌</string>
+    <string name="ambient_display_always_on_title">هه‌میشه‌ کارا</string>
     <string name="ambient_display_always_on_summary">پیشاندانی کات، ئاگانامەکان ، زانیارییەکانیتر.
 ووزەی زیاتری پاتری بەکاردەبات.</string>
     <string name="pulse_ambient_light_enable_title">ڕۆشنکەرەوەی لێوارەکان</string>
     <string name="pulse_ambient_light_title">ڕۆشنکەرەوەی لێوار</string>
     <string name="pulse_ambient_light_summary">لێوارەکان ڕۆشن ئەبنەوە کاتی پێگەیشتنی ئاگانامەکان</string>
     <string name="pulse_ambient_light_color_title">ڕەنگی ڕۆشنایی لێوار</string>
-    <string name="pulse_ambient_light_color_mode_title">ڕەنگی ڕۆشنایی</string>
+    <string name="pulse_ambient_light_color_mode_title">ڕەنگی ڕۆشن</string>
     <string name="pulse_ambient_light_color_mode_wall">بەپێی پاشبنەما</string>
     <string name="pulse_ambient_light_color_mode_accent">شێوە</string>
-    <string name="pulse_ambient_light_color_mode_custom">خۆکرد</string>
-    <string name="pulse_ambient_light_duration_title">ماوەی ڕۆشنایی</string>
-    <string name="pulse_ambient_light_repeat_count_title">دووبارەکردنەوە ژمارەیی</string>
-    <string name="pulse_ambient_light_repeat_count_summary">دانانی بەرزترین ژمارەی دووبارەکردنەوە. 0 تا ناکۆتایی</string>
+    <string name="pulse_ambient_light_color_mode_custom">دڵخواز</string>
+    <string name="pulse_ambient_light_duration_title">مەودای ڕۆشنایی</string>
+    <string name="pulse_ambient_light_repeat_count_title">دووبارەکردنەوەی ژمارەیی</string>
+    <string name="pulse_ambient_light_repeat_count_summary">دانانی بەرزترین ژمارەی دووبارەکردنەوە. 0 تا بێداوی</string>
     <string name="pulse_ambient_light_repeat_direction_title">ئاڕاستەی دووبارەکردنەوە</string>
-    <string name="pulse_ambient_light_repeat_direction_summary">چالاکی بکە بۆ گێڕانەوەی ئاڕاستەی دووبارەکراو، ناچالاکی بکە بۆ هەڵبوونەوە</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">چالاکی بکە بۆ گێڕانەوەی ئاڕاستەی دووبارەکراو، ناچالاکی بکە بۆ داگیرسانەوە</string>
     <string name="pulse_ambient_light_color_automatic_title">بەکارهێنانی ڕەنگی ئاگانامە</string>
     <string name="pulse_ambient_light_color_automatic_summary">بەکارهێنانی ڕەنگی ئاگانامەی ئەپەکان بۆ ڕۆشنایی لێوار</string>
     <string name="pulse_ambient_light_width_title">پانی ڕۆشنایی</string>
@@ -84,7 +84,7 @@
     <string name="pickup_sensor_title">هەستەوەری هەڵگرتن</string>
     <string name="proximity_sensor_title">هەستەوەری نزیکی</string>
     <string name="hand_wave_gesture_title">دەست راوەشاندن</string>
-    <string name="hand_wave_gesture_summary">دەرکەوتنی ئاگانامەکان لەکاتی دەست ڕاوەشاندندا</string>
+    <string name="hand_wave_gesture_summary">دەرکەوتنی ئاگانامەکان لەکاتی دەست ڕاوەشاندن</string>
     <string name="hand_wave_gesture_flat_title">پێزانینی ئاڕاستەکردن</string>
     <string name="hand_wave_gesture_flat_summary">دەرکەوتن تەنها ئەوکاتەی مۆبایلەکە هەڵدەگیرێتەوە</string>
     <string name="pick_up_gesture_title">هەڵگرتن</string>
@@ -116,6 +116,7 @@
     <string name="feedback_intensity_medium">ناوەند</string>
     <string name="feedback_intensity_high">به‌رز</string>
     <string name="dialog_ok">باشە</string>
+    <string name="disabled">لەکارخراوە</string>
     <string name="doze_settings_help_title">یارمەتی</string>
     <string name="doze_settings_help_text">ئەو تایبەتمەندییانە هەستەوەرەکان بەکاردەهێنن بۆ دەرکەوتنی ئاگانامەی وەنەوزدراو. هەستەوەری هەڵبژێردراو تەنها کاتێ چالاک ئەبێ کە مۆبایلەکەت ئاگانامەیەکی پێبگات، ئەمەش یارمەتیدەرە بۆ کەم بەفیڕۆچوونی ووزە. بەهەمان شێوە بژاردەیەکیتر هەیە کە هەستەوەرەکە لەکاتی کوژانەوەی ڕوونما چالاک دەکات، بەڵام ئەمەیان ووزەیەکی زۆر بەفیڕۆ ئەدات.</string>
     <string name="button_panel_title">دوگمە پاشکۆکان</string>
@@ -127,7 +128,7 @@
     <string name="fingerprint_wakeup_title">هەڵبوون بە پەنجەمۆر</string>
     <string name="fingerprint_wakeup_summary">ڕێدان بە پەنجەمۆر بۆ هەڵکردنی ڕوونما کاتێ ڕوونما داخرابێت</string>
     <string name="fingerprint_pocketmode_title">ڕێگیری لە هەڵبوونی بەهەڵە</string>
-    <string name="fingerprint_pocketmode_summary">پشکنینی هەستەوەری نزیکی پێش هەڵبوونی ڕوونما بۆ دڵنیابوونەوە لە نەبوونی هەڵە پەنجەمۆرەوە</string>
+    <string name="fingerprint_pocketmode_summary">پشکنینی هەستەوەری نزیکی پێش هەڵبوونی ڕوونما بۆ دڵنیابوونەوە لە نەبوونی هەڵە لە پەنجەمۆرەوە</string>
     <string name="fingerprint_sleep_title">کوژانەوە بە پەنجەمۆر</string>
     <string name="fingerprint_sleep_summary">هەستەوەری پەنجەمۆر داگرە بۆ کوژانەوەی ڕوونماکەت</string>
     <string name="high_touch_sensitivity_title">هەستیاری دەسلێدانی بەرز</string>
@@ -152,7 +153,7 @@
     <string name="notification_slider_top_position">ناوچەی سەرەوە</string>
     <string name="notification_slider_middle_position">ناوچەی ناوەند</string>
     <string name="notification_slider_bottom_position">ناوچەی خوارەوە</string>
-    <string name="notification_slider_mode_total_silence">کپبوونی گشتی</string>
+    <string name="notification_slider_mode_total_silence">تەواو بێدەنگ</string>
     <string name="notification_slider_mode_alarms_only">تەنها ووریاکەرەوە</string>
     <string name="notification_slider_mode_priority_only">تەنها پیشەیی</string>
     <string name="notification_slider_mode_silent">بێدەنگ</string>

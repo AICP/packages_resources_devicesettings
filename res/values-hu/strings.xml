@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">Háttérkép-alapú</string>
     <string name="pulse_ambient_light_color_mode_accent">Kiemelőszín</string>
     <string name="pulse_ambient_light_color_mode_custom">Egyéni</string>
+    <string name="pulse_ambient_light_color_mode_random">Véletlenszerű</string>
     <string name="pulse_ambient_light_duration_title">A fény hossza</string>
     <string name="pulse_ambient_light_repeat_count_title">Ismétlésszám</string>
     <string name="pulse_ambient_light_repeat_count_summary">A maximális ismétlésszám beállítása. Nullától végtelenig</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">Értesítések felvillantása csak akkor, ha a telefon kijelzővel felfelé fekszik sima felületen</string>
     <string name="pick_up_gesture_title">Felemelés</string>
     <string name="pick_up_gesture_summary">Értesítések felvillantása felemeléskor</string>
+    <string name="pick_up_wake_gesture_summary">Készülékébresztés felemeléskor</string>
     <string name="pocket_gesture_title">Zseb</string>
     <string name="pocket_gesture_summary">Értesítések felvillantása zsebből kivételkor</string>
     <string name="proximity_wake_title">Felébresztés a közelségérzékelő segítségével</string>
@@ -115,6 +117,7 @@
     <string name="feedback_intensity_medium">Közepes intenzitású</string>
     <string name="feedback_intensity_high">Erőteljes intenzitású</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Letiltva</string>
     <string name="doze_settings_help_title">Súgó</string>
     <string name="doze_settings_help_text">Ezek a funkciók az érzékelők eseményeit használják az értesítések felvillantásához. A kiválasztott érzékelő csak akkor lép működésbe, ha az eszközre értesítés érkezik, ez segít csökkenteni az akkumulátorhasználatot. Lehetőség van a kiválasztott érzékelő állandó engedélyezésére, kikapcsolt képernyőnél is, de ez növeli a fogyasztást.</string>
     <string name="button_panel_title">További gombok</string>
@@ -171,4 +174,6 @@
     <string name="quick_charge_summary">A gyorstöltés kapcsolója. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
     <string name="camera_focus_fix_title">Rögzített fókusz</string>
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
+    <string name="wake_on_gesture_title">Készülékébresztés kézmozdulatokra</string>
+    <string name="wake_on_gesture_summary">A mozdulatokra impulzus-értesítések helyett ébressze fel a készüléket</string>
 </resources>

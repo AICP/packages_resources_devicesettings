@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">Podle tapety</string>
     <string name="pulse_ambient_light_color_mode_accent">Vedlejší barva</string>
     <string name="pulse_ambient_light_color_mode_custom">Vlastní</string>
+    <string name="pulse_ambient_light_color_mode_random">Náhodně</string>
     <string name="pulse_ambient_light_duration_title">Doba trvání efektu</string>
     <string name="pulse_ambient_light_repeat_count_title">Počet opakování</string>
     <string name="pulse_ambient_light_repeat_count_summary">Nastavte maximální počet opakování. 0 pro nekonečno</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulsovat pouze v případě, když telefon leží na rovné ploše obrazovkou nahoru</string>
     <string name="pick_up_gesture_title">Zvednutí</string>
     <string name="pick_up_gesture_summary">Upozornit pulzováním při zvednutí</string>
+    <string name="pick_up_wake_gesture_summary">Probudit zařízení při zvednutí</string>
     <string name="pocket_gesture_title">Kapsa</string>
     <string name="pocket_gesture_summary">Upozornit pulsováním při vyjmutí z kapsy</string>
     <string name="proximity_wake_title">Probuzení přiblížením</string>
@@ -115,6 +117,7 @@
     <string name="feedback_intensity_medium">Střední</string>
     <string name="feedback_intensity_high">Vysoká</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Zakázáno</string>
     <string name="doze_settings_help_title">Pomoc</string>
     <string name="doze_settings_help_text">Tyto funkce používají senzory, aby mohli uspávat pulzující oznámení. Vybraný senzor je povolen, pouze když zařízení obdrží oznámení, to pomáhá snižovat využití baterie. Je také možno vybraný senzor aktivovat, kdykoli je obrazovka vypnutá, což zvyšuje využití baterie.</string>
     <string name="button_panel_title">Další tlačítka</string>
@@ -171,4 +174,6 @@
     <string name="quick_charge_summary">Přepnout rychlé nabíjení. Po změně tohoto nastavení odpojte nabíječku a znovu ji připojte</string>
     <string name="camera_focus_fix_title">Oprava zaostření fotoaparátu</string>
     <string name="camera_focus_fix_summary">Povolte, pokud máte problémy se zaostřením fotoaparátu</string>
+    <string name="wake_on_gesture_title">Probuzení gesty</string>
+    <string name="wake_on_gesture_summary">Při gestech zařízení probudit místo zobrazení pulzujících oznámení</string>
 </resources>

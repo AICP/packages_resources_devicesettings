@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">基于壁纸</string>
     <string name="pulse_ambient_light_color_mode_accent">强调色</string>
     <string name="pulse_ambient_light_color_mode_custom">自定义</string>
+    <string name="pulse_ambient_light_color_mode_random">随机</string>
     <string name="pulse_ambient_light_duration_title">持续时间</string>
     <string name="pulse_ambient_light_repeat_count_title">重复次数</string>
     <string name="pulse_ambient_light_repeat_count_summary">设置最大重复次数，0 表示无限</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">仅当手机屏幕朝上且放置于平坦表面时点亮屏幕</string>
     <string name="pick_up_gesture_title">拿起</string>
     <string name="pick_up_gesture_summary">拿起时唤醒屏幕</string>
+    <string name="pick_up_wake_gesture_summary">拿起时唤醒设备</string>
     <string name="pocket_gesture_title">口袋</string>
     <string name="pocket_gesture_summary">从口袋中拿出时唤醒屏幕</string>
     <string name="proximity_wake_title">近距离唤醒</string>
@@ -115,6 +117,7 @@
     <string name="feedback_intensity_medium">中</string>
     <string name="feedback_intensity_high">高</string>
     <string name="dialog_ok">确定</string>
+    <string name="disabled">禁用</string>
     <string name="doze_settings_help_title">帮助</string>
     <string name="doze_settings_help_text">这些特性以传感器事件启用通知指示灯睡眠。被选中的传感器仅当设备收到通知时才会启用，这将有助于减少电量消耗。此外也存在屏幕关闭后立即启用传感器的选项，这会造成更多的电量消耗。</string>
     <string name="button_panel_title">附加按钮</string>
@@ -171,4 +174,6 @@
     <string name="quick_charge_summary">切换快速充电，更改此设置后，请拔出并重新插入充电器</string>
     <string name="camera_focus_fix_title">修复相机对焦</string>
     <string name="camera_focus_fix_summary">如果您的相机遇到无法对焦的问题，请启用该选项</string>
+    <string name="wake_on_gesture_title">手势唤醒</string>
+    <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
 </resources>
