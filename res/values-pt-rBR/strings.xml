@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">Baseado no papel de parede</string>
     <string name="pulse_ambient_light_color_mode_accent">Destaque</string>
     <string name="pulse_ambient_light_color_mode_custom">Personalizado</string>
+    <string name="pulse_ambient_light_color_mode_random">Aleatório</string>
     <string name="pulse_ambient_light_duration_title">Duração da luz</string>
     <string name="pulse_ambient_light_repeat_count_title">Repetir contagem</string>
     <string name="pulse_ambient_light_repeat_count_summary">Definir contagem máxima de repetição. 0 para infinito</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulsar apenas se o telefone estiver numa superfície plana</string>
     <string name="pick_up_gesture_title">Pegar</string>
     <string name="pick_up_gesture_summary">Pulsar notificações ao pegar o dispositivo</string>
+    <string name="pick_up_wake_gesture_summary">Acordar o dispositivo ao pegar</string>
     <string name="pocket_gesture_title">Bolso</string>
     <string name="pocket_gesture_summary">Pulsar notificações ao retirar do bolso</string>
     <string name="proximity_wake_title">Acordar por proximidade</string>
@@ -172,4 +174,6 @@
     <string name="quick_charge_summary">Alternar o carregamento rápido. Desconecte e reconecte o carregador após alterar esta configuração</string>
     <string name="camera_focus_fix_title">Correção de foco da câmera</string>
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
+    <string name="wake_on_gesture_title">Acordar com gestos</string>
+    <string name="wake_on_gesture_summary">Acordar o dispositivo ao invés de pulsar notificações em eventos de gestos</string>
 </resources>

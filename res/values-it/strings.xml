@@ -71,6 +71,7 @@
     <string name="pulse_ambient_light_color_mode_wall">In base allo sfondo</string>
     <string name="pulse_ambient_light_color_mode_accent">Secondario</string>
     <string name="pulse_ambient_light_color_mode_custom">Personalizzato</string>
+    <string name="pulse_ambient_light_color_mode_random">Casuale</string>
     <string name="pulse_ambient_light_duration_title">Durata illuminazione</string>
     <string name="pulse_ambient_light_repeat_count_title">Ripeti conteggio</string>
     <string name="pulse_ambient_light_repeat_count_summary">Imposta la ripetizione massima del conteggio. 0 per infinito</string>
@@ -88,6 +89,7 @@
     <string name="hand_wave_gesture_flat_summary">Lampeggia solo se il telefono è rivolto in su su una superficie piana</string>
     <string name="pick_up_gesture_title">Raccogli</string>
     <string name="pick_up_gesture_summary">Lampeggia le notifiche alla raccolta</string>
+    <string name="pick_up_wake_gesture_summary">Risveglia il dispositivo al sollevamento</string>
     <string name="pocket_gesture_title">Tasca</string>
     <string name="pocket_gesture_summary">Lampeggia le notifiche alla rimozione dalla tasca</string>
     <string name="proximity_wake_title">Riattivazione in prossimità</string>
@@ -172,4 +174,6 @@
     <string name="quick_charge_summary">Attiva/Disattiva la carica rapida. Scollega e ricollega il caricatore dopo aver modificato quest\'impostazione</string>
     <string name="camera_focus_fix_title">Fissa fuoco fotocamera</string>
     <string name="camera_focus_fix_summary">Abilita se hai problemi con la messa a fuoco della fotocamera</string>
+    <string name="wake_on_gesture_title">Attiva con gesti</string>
+    <string name="wake_on_gesture_summary">Attiva il dispositivo invece che mostrare le notifiche agli eventi di gesto</string>
 </resources>
