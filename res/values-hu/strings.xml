@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
     <string name="wake_on_gesture_title">Készülékébresztés kézmozdulatokra</string>
     <string name="wake_on_gesture_summary">A mozdulatokra impulzus-értesítések helyett ébressze fel a készüléket</string>
+    <string name="ambient_swipe_title">Csúsztatás a környezeti kijelzőn</string>
+    <string name="ambient_swipe_summary">Környezeti kijelzőn lehetővé teszi a fel vagy lecsúsztatásos vezérlést</string>
 </resources>

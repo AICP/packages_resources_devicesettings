@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">如果您的相机遇到无法对焦的问题，请启用该选项</string>
     <string name="wake_on_gesture_title">手势唤醒</string>
     <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
+    <string name="ambient_swipe_title">主动显示滑动</string>
+    <string name="ambient_swipe_summary">启用主动显示屏幕上的上/下滑动</string>
 </resources>

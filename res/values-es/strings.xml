@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Activar si tiene problemas con la cámara al enfocar</string>
     <string name="wake_on_gesture_title">Despertar con gestos</string>
     <string name="wake_on_gesture_summary">Despierta el dispositivo en lugar de mostrar notificaciones al realizar gestos</string>
+    <string name="ambient_swipe_title">Deslizar en pantalla ambiente</string>
+    <string name="ambient_swipe_summary">Habilitar el deslizamiento hacia arriba o abajo en pantalla ambiente</string>
 </resources>

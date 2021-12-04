@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Aktivieren, wenn die Kamera nicht korrekt fokussiert (unscharfe Bilder)</string>
     <string name="wake_on_gesture_title">Mit Gesten aufwecken</string>
     <string name="wake_on_gesture_summary">Gerät bei Gestenaktionen aufwecken anstelle von pulsierenden Benachrichtigungen</string>
+    <string name="ambient_swipe_title">Wischgeste bei Inaktivitätsdisplay</string>
+    <string name="ambient_swipe_summary">Wischen nach oben oder unten bei Inaktivitätsdisplay aktivieren</string>
 </resources>
