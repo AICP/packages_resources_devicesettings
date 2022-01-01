@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Pornit</string>
+    <string name="switch_bar_off">Oprit</string>
+    <string name="device_settings_app_name">Setari avansate</string>
+    <string name="screen_gestures_panel_title">Gesturi</string>
+    <string name="touchscreen_gesture_extras">Suplimentar</string>
+    <string name="touchscreen_gesture_haptic_feedback">Vibraţii la atingere</string>
+    <string name="pulse_ambient_light_color_mode_random">Aleatoriu</string>
+    <string name="pick_up_wake_gesture_summary">Trezește dispozitivul la ridicare</string>
+    <string name="wake_on_gesture_title">Trezire la gesturi</string>
+    <string name="wake_on_gesture_summary">Trezește dispozitivul în loc să pulseze notificările în cazul gesturilor</string>
+    <string name="ambient_swipe_title">Glisare ecran ambiental</string>
+    <string name="ambient_swipe_summary">Activează glisarea în sus sau în jos pe ecranul ambiental</string>
+</resources>

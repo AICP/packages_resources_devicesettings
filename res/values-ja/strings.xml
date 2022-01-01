@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効化して下さい</string>
     <string name="wake_on_gesture_title">ジェスチャーでスリープ解除</string>
     <string name="wake_on_gesture_summary">ジェスチャー動作によって通知を点滅表示させる代わりに端末を復帰させる</string>
+    <string name="ambient_swipe_title">アンビエント表示のスワイプ</string>
+    <string name="ambient_swipe_summary">アンビエント表示での上スワイプや下スワイプを有効化する</string>
 </resources>

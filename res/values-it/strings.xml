@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Abilita se hai problemi con la messa a fuoco della fotocamera</string>
     <string name="wake_on_gesture_title">Attiva con gesti</string>
     <string name="wake_on_gesture_summary">Attiva il dispositivo invece che mostrare le notifiche agli eventi di gesto</string>
+    <string name="ambient_swipe_title">Scorrimento Ambient Display</string>
+    <string name="ambient_swipe_summary">Abilita lo scorrimento sù o giù su Ambient Display</string>
 </resources>

@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Aktifkan jika Anda memiliki masalah dengan kamera yang tidak fokus</string>
     <string name="wake_on_gesture_title">Bangunkan dengan gestur</string>
     <string name="wake_on_gesture_summary">Bangunkan perangkat alih-alih mengedipkan notifikasi saat terdeteksi gerakan</string>
+    <string name="ambient_swipe_title">Geser Tampilan Ambien</string>
+    <string name="ambient_swipe_summary">Aktifkan geser ke atas atau ke bawah pada Tampilan Ambien</string>
 </resources>
