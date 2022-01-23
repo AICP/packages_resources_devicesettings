@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Włącz jeśli masz problemy z ostrością kamery</string>
     <string name="wake_on_gesture_title">Wybudź za pomocą gestów</string>
     <string name="wake_on_gesture_summary">Wybudź urządzenie zamiast pulsować podczas gestów</string>
+    <string name="ambient_swipe_title">Przesunięcie ekranu zgodnego z otoczeniem</string>
+    <string name="ambient_swipe_summary">Włącz przesunięcie w górę lub w dół na ekranie zgodnym z otoczeniem</string>
 </resources>

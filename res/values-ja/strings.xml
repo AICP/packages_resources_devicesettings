@@ -102,9 +102,9 @@
     <string name="chop_chop_gesture_summary">2回チョップのジェスチャーでライトを切り替える</string>
     <string name="hand_wave_silencer_title">手を振ってサイレント</string>
     <string name="hand_wave_silencer_summary">画面上で手を振って着信をサイレントにする</string>
-    <string name="flip_to_mute_title">裏返してマナーモード</string>
+    <string name="flip_to_mute_title">裏返して Do Not Disturb</string>
     <string name="flip_to_mute_summary">端末を裏向きにして通知と通話をサイレントにする</string>
-    <string name="dnd_access">この機能を使うために CMActions にマナーモードの権限を与えて下さい</string>
+    <string name="dnd_access">この機能を使うために CMActions に Do Not Disturb の権限を与えて下さい</string>
     <string name="lift_to_silence_title">持ち上げて着信音停止</string>
     <string name="lift_to_silence_summary">端末を持ち上げた時に着信音をサイレントにします。端末が水平面にあった場合にのみ動作します。</string>
     <string name="action_none">無効</string>
