@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b24262cc_5a4485f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1880
+      },
+      "writtenOn": "2022-02-05T12:15:37Z",
+      "side": 1,
+      "message": "This is now needed to keep in sync with changes in hw/motorola",
+      "revId": "589cc2614079709ae78a2f02917efc9e91e1f2a6",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
