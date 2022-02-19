@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "963f05a4_f3e96694",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2022-02-19T14:56:29Z",
+      "side": 1,
+      "message": "Test:\n- Build passes with org.lineageos.settings.resources in Android.bp\n- Build passes with com.aicp.settings.resources in Android.bp",
+      "revId": "399a941d7091f142bcb700731cfdacdfd7e19f17",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
