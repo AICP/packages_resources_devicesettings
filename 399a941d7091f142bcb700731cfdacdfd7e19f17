@@ -16,6 +16,23 @@
       "message": "Test:\n- Build passes with org.lineageos.settings.resources in Android.bp\n- Build passes with com.aicp.settings.resources in Android.bp",
       "revId": "399a941d7091f142bcb700731cfdacdfd7e19f17",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7ad81f9_3f90d39b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1880
+      },
+      "writtenOn": "2022-02-19T15:03:37Z",
+      "side": 1,
+      "message": "Fixes Motoactions compile",
+      "revId": "399a941d7091f142bcb700731cfdacdfd7e19f17",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
