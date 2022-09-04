@@ -178,4 +178,5 @@
     <string name="wake_on_gesture_summary">Despierta el dispositivo en lugar de mostrar notificaciones al realizar gestos</string>
     <string name="ambient_swipe_title">Deslizar en pantalla ambiente</string>
     <string name="ambient_swipe_summary">Habilitar el deslizamiento hacia arriba o abajo en pantalla ambiente</string>
+    <string name="moto_gestures_panel_title">Gestos Motorola</string>
 </resources>

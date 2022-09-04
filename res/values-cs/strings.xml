@@ -178,4 +178,5 @@
     <string name="wake_on_gesture_summary">Při gestech zařízení probudit místo zobrazení pulzujících oznámení</string>
     <string name="ambient_swipe_title">Přejetí po Ambientním displeji</string>
     <string name="ambient_swipe_summary">Povolí přejetí nahoru nebo dolů po Ambientním displeji</string>
+    <string name="moto_gestures_panel_title">Moto gesta</string>
 </resources>

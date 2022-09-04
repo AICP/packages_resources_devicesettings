@@ -178,4 +178,5 @@
     <string name="wake_on_gesture_summary">Hareket olaylarında titreşimli bildirimler yerine cihazı uyandırın</string>
     <string name="ambient_swipe_title">Ortam ekranında kaydır</string>
     <string name="ambient_swipe_summary">Ortam ekranında yukarı veya aşağı kaydırmayı etkinleştir</string>
+    <string name="moto_gestures_panel_title">Moto Hareketleri</string>
 </resources>

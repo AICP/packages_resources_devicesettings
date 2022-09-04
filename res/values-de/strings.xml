@@ -178,4 +178,5 @@
     <string name="wake_on_gesture_summary">Gerät bei Gestenaktionen aufwecken anstelle von pulsierenden Benachrichtigungen</string>
     <string name="ambient_swipe_title">Wischgeste bei Inaktivitätsdisplay</string>
     <string name="ambient_swipe_summary">Wischen nach oben oder unten bei Inaktivitätsdisplay aktivieren</string>
+    <string name="moto_gestures_panel_title">Moto-Gesten</string>
 </resources>

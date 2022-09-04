@@ -176,4 +176,6 @@
     <string name="camera_focus_fix_summary">Включите, если у вас возникли проблемы с отсутствием фокуса у камеры</string>
     <string name="wake_on_gesture_title">Пробуждение жестами</string>
     <string name="wake_on_gesture_summary">Пробуждать устройство вместо пульсации уведомлений при использовании жестов</string>
+    <string name="ambient_swipe_title">Активация экрана при уведомлениях свайпом</string>
+    <string name="ambient_swipe_summary">Включить свайп вверх или вниз на Ambient Display</string>
 </resources>
