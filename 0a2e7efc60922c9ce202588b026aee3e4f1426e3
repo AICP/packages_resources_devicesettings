@@ -16,6 +16,41 @@
       "message": "The latest branch og hardware_motorola still has \"moto\" \n\nRef:https://github.com/AICP/hardware_motorola/blob/s12.1/MotoActions/AndroidManifest.xml",
       "revId": "0a2e7efc60922c9ce202588b026aee3e4f1426e3",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21aa5654_03481632",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2001
+      },
+      "writtenOn": "2023-02-16T18:39:18Z",
+      "side": 1,
+      "message": "Thanks, did not not realize there was a Hardware Motorola branch on AICP, used the one from Lineage hence why while syncing. Can the branch t13.0 be added please.",
+      "parentUuid": "2b1f6d02_138632e1",
+      "revId": "0a2e7efc60922c9ce202588b026aee3e4f1426e3",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85147bb3_5088638a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2001
+      },
+      "writtenOn": "2023-02-16T18:39:18Z",
+      "side": 1,
+      "message": "Thanks, did not not realize there was a Hardware Motorola branch on AICP, used the one from Lineage hence why while syncing. Can the branch t13.0 be added please.",
+      "revId": "0a2e7efc60922c9ce202588b026aee3e4f1426e3",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
