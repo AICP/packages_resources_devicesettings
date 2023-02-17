@@ -51,6 +51,24 @@
       "message": "Thanks, did not not realize there was a Hardware Motorola branch on AICP, used the one from Lineage hence why while syncing. Can the branch t13.0 be added please.",
       "revId": "0a2e7efc60922c9ce202588b026aee3e4f1426e3",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc0256c0_617f42fe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-02-17T08:09:26Z",
+      "side": 1,
+      "message": "Done. s12.1 branch pushed as t13.0.",
+      "parentUuid": "85147bb3_5088638a",
+      "revId": "0a2e7efc60922c9ce202588b026aee3e4f1426e3",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
     }
   ]
 }
