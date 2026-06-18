@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -63,23 +63,8 @@
     <string name="ambient_display_summary_off">A tela não vai ligar quando você receber notificações</string>
     <string name="ambient_display_always_on_title">Sempre ativado</string>
     <string name="ambient_display_always_on_summary">Mostrar hora, ícones de notificação e outras informações. Aumenta o uso de bateria.</string>
-    <string name="pulse_ambient_light_enable_title">Iluminação ambiente do canto da tela</string>
-    <string name="pulse_ambient_light_title">Iluminação do canto da tela</string>
-    <string name="pulse_ambient_light_summary">Iluminar as bordas laterais da tela ao receber notificações</string>
-    <string name="pulse_ambient_light_color_title">Cor de iluminação do canto da tela</string>
-    <string name="pulse_ambient_light_color_mode_title">Cor do Led</string>
-    <string name="pulse_ambient_light_color_mode_wall">Baseado no papel de parede</string>
-    <string name="pulse_ambient_light_color_mode_accent">Destaque</string>
-    <string name="pulse_ambient_light_color_mode_custom">Personalizado</string>
-    <string name="pulse_ambient_light_color_mode_random">Aleatório</string>
-    <string name="pulse_ambient_light_duration_title">Duração da luz</string>
-    <string name="pulse_ambient_light_repeat_count_title">Repetir contagem</string>
-    <string name="pulse_ambient_light_repeat_count_summary">Definir contagem máxima de repetição. 0 para infinito</string>
-    <string name="pulse_ambient_light_repeat_direction_title">Repetir direção</string>
-    <string name="pulse_ambient_light_repeat_direction_summary">Ativar para repetir o reverso, desativar para reiniciar</string>
-    <string name="pulse_ambient_light_color_automatic_title">Usar cor de notificação</string>
-    <string name="pulse_ambient_light_color_automatic_summary">Usar a cor das notificações do aplicativo para iluminação</string>
-    <string name="pulse_ambient_light_width_title">Largura fina</string>
+    <string name="edge_light_enable_title">Iluminação ambiente do canto da tela</string>
+    <string name="edge_light_summary">Iluminar as bordas laterais da tela ao receber notificações</string>
     <string name="tilt_sensor_title">Sensor de inclinação</string>
     <string name="pickup_sensor_title">Sensor de movimento</string>
     <string name="proximity_sensor_title">Sensor de proximidade</string>
@@ -176,4 +161,13 @@
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
     <string name="wake_on_gesture_title">Acordar com gestos</string>
     <string name="wake_on_gesture_summary">Acordar o dispositivo ao invés de pulsar notificações em eventos de gestos</string>
+    <string name="alert_slider_selection_dialog_title">Acão</string>
+    <string name="alert_slider_top_position">Posição superior</string>
+    <string name="alert_slider_middle_position">Posição central</string>
+    <string name="alert_slider_bottom_position">Posição inferior</string>
+    <string name="alert_slider_mode_silent">Silencioso</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_dnd_priority_only">Somente Prioridade</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silêncio total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Somente alarmes</string>
 </resources>

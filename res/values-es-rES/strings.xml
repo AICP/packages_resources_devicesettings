@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2026 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Activado</string>
+    <string name="switch_bar_off">Desactivado</string>
+    <string name="device_settings_app_name">Ajustes avanzados</string>
+    <string name="screen_gestures_panel_title">Gestos</string>
+    <string name="touchscreen_gesture_extras">Extras</string>
+    <string name="touchscreen_gesture_haptic_feedback">Respuesta háptica</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrar cuando se detecte un gesto</string>
+    <string name="touchscreen_gesture_settings_title">Gestos en pantalla</string>
+    <string name="touchscreen_gesture_settings_summary">Realizar varios gestos en la pantalla para acciones rápidas</string>
+    <string name="gesture_display_title">Gestos con pantalla apagada</string>
+    <string name="touchscreen_c_gesture_title">Cámara</string>
+    <string name="touchscreen_c_gesture_summary">Dibuja una «C» para activar la cámara</string>
+    <string name="touchscreen_e_gesture_title">Correo</string>
+    <string name="touchscreen_e_gesture_summary">Dibuja una \"e\" para abrir la aplicación de correo</string>
+    <string name="touchscreen_m_gesture_title">Mensajería</string>
+    <string name="touchscreen_m_gesture_summary">Dibuja una «M» para abrir la aplicación de mensajería</string>
+    <string name="touchscreen_s_gesture_title">Mensajería</string>
+    <string name="touchscreen_s_gesture_summary">Dibuja una «S» para abrir la aplicación de mensajería</string>
+    <string name="touchscreen_v_gesture_title">Aplicación Teléfono</string>
+    <string name="touchscreen_v_gesture_summary">Dibuja una «V» para abrir la aplicación de teléfono</string>
+    <string name="touchscreen_w_gesture_title">Navegador</string>
+    <string name="touchscreen_w_gesture_summary">Dibuja una\"W\" para abrir la aplicación de navegador</string>
+    <string name="touchscreen_z_gesture_title">Linterna</string>
+    <string name="touchscreen_z_gesture_summary">Dibuja una \"Z\" para encender/ apagar la linterna</string>
+    <string name="touchscreen_flashlight_gesture_title">Linterna</string>
+    <string name="touchscreen_flashlight_gesture_summary">Dibuja un círculo para encender/apagar la linterna</string>
+    <string name="touchscreen_music_gesture_title">Música</string>
+    <string name="touchscreen_music_gesture_summary">Usar gestos para controlar la reproducción de música \n
+    • Deslizar hacia abajo para reproducir/pausar\n
+    • Deslizar a la izquierda para la canción anterior\n
+    • Deslizar a la derecha para la siguiente canción</string>
+    <string name="touchscreen_swipe_up_title">Deslizar hacia arriba</string>
+    <string name="touchscreen_swipe_right_title">Deslizar a la derecha</string>
+    <string name="touchscreen_swipe_down_title">Deslizar hacia abajo</string>
+    <string name="touchscreen_swipe_left_title">Deslizar a la izquierda</string>
+    <string name="user_aware_display_title">Detección del usuario</string>
+    <string name="user_aware_display_summary">Mantener la pantalla encendida mientras un usuario está frente a la pantalla</string>
+    <string name="ambient_display_title">Pantalla ambiente</string>
+    <string name="ambient_display_enable_title">Pantalla ambiente</string>
+    <string name="ambient_display_enable_summary">Encender la pantalla al recibir notificaciones</string>
+    <string name="ambient_display_gestures_title">Gestos en pantalla ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos adicionales para activar la pantalla</string>
+    <string name="ambient_display_summary">Encender la pantalla al recibir notificaciones</string>
+    <string name="ambient_display_summary_on">La pantalla se activará cuando reciba notificaciones</string>
+    <string name="ambient_display_summary_off">La pantalla no se activará cuando reciba notificaciones</string>
+    <string name="ambient_display_always_on_title">Siempre encendida</string>
+    <string name="ambient_display_always_on_summary">Mostrar hora, iconos de notificaciones, y otra info. Incrementa el uso de batería.</string>
+    <string name="edge_light_enable_title">Iluminación del borde en pantalla ambiente</string>
+    <string name="edge_light_summary">Enciende los bordes de la pantalla al recibir una notificación</string>
+    <string name="tilt_sensor_title">Sensor de inclinación</string>
+    <string name="pickup_sensor_title">Sensor de recogida</string>
+    <string name="proximity_sensor_title">Sensor de proximidad</string>
+    <string name="hand_wave_gesture_title">Pase de mano</string>
+    <string name="hand_wave_gesture_summary">Mostrar notificaciones al pasar la mano sobre el dispositivo</string>
+    <string name="hand_wave_gesture_flat_title">Detectar orientación</string>
+    <string name="hand_wave_gesture_flat_summary">Mostrar notificaciones sólo si el teléfono está sobre una superficie plana</string>
+    <string name="pick_up_gesture_title">Al recoger</string>
+    <string name="pick_up_gesture_summary">Mostrar notificaciones al recoger</string>
+    <string name="pick_up_wake_gesture_summary">Despertar dispositivo al cogerlo</string>
+    <string name="pocket_gesture_title">Bolsillo</string>
+    <string name="pocket_gesture_summary">Mostrar notificaciones al sacar del bolsillo</string>
+    <string name="proximity_wake_title">Despertar por proximidad</string>
+    <string name="proximity_wake_enable_title">Despertar por proximidad</string>
+    <string name="proximity_wake_enable_summary">Despertar el dispositivo al pasar la mano</string>
+    <string name="actions_title">Acciones</string>
+    <string name="camera_gesture_title">Doble giro</string>
+    <string name="camera_gesture_summary">Abrir cámara cuando se use el gesto de doble giro</string>
+    <string name="chop_chop_gesture_title">Doble sacudida</string>
+    <string name="chop_chop_gesture_summary">Encender linterna cuando se usa el gesto de doble sacudida</string>
+    <string name="hand_wave_silencer_title">Pasar la mano para silenciar</string>
+    <string name="hand_wave_silencer_summary">Silenciar la llamada al pasar la mano por la pantalla</string>
+    <string name="flip_to_mute_title">Voltear para modo No Molestar</string>
+    <string name="flip_to_mute_summary">Colocar teléfono boca abajo para silenciar notificaciones y llamadas</string>
+    <string name="dnd_access">Por favor, dé acceso No molestar a CMActions para utilizar esta función.</string>
+    <string name="lift_to_silence_title">Recoger para dejar de sonar</string>
+    <string name="lift_to_silence_summary">Levantar el teléfono para silenciar las llamadas entrantes. Sólo funciona cuando el teléfono está inicialmente sobre una superficie plana</string>
+    <string name="action_none">Desactivar</string>
+    <string name="action_launch_camera">Abrir cámara</string>
+    <string name="action_torch">Linterna</string>
+    <string name="feedback_intensity_title">Intensidad de retroalimentación háptica</string>
+    <string name="feedback_intensity_summary">Intensidad de la respuesta háptica para las acciones de doble giro y doble sacudida</string>
+    <string name="feedback_intensity_none">Deshabilitado</string>
+    <string name="feedback_intensity_low">Baja</string>
+    <string name="feedback_intensity_medium">Media</string>
+    <string name="feedback_intensity_high">Alta</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">Deshabilitado</string>
+    <string name="doze_settings_help_title">Ayuda</string>
+    <string name="doze_settings_help_text">Estas características usan eventos de sensores para lanzar una notificación de pantalla ambiente. El sensor seleccionado solo se activa cuando el dispositivo recibe una notificación, lo que ayuda a reducir el uso de la batería. También hay una opción para habilitar el sensor seleccionado en cuanto la pantalla se apague pero esto causará un mayor consumo de batería.</string>
+    <string name="button_panel_title">Botones adicionales</string>
+    <string name="button_swap_title">Intercambiar botones</string>
+    <string name="button_swap_summary">Intercambiar el orden de los botones \"recientes\" y \"atrás\"</string>
+    <string name="fingerprint_title">Huella digital</string>
+    <string name="fingerprint_as_home_title">Huella dactilar como inicio</string>
+    <string name="fingerprint_as_home_summary">Usar el sensor de huellas dactilares como botón de inicio</string>
+    <string name="fingerprint_wakeup_title">Despertar con huella dactilar</string>
+    <string name="fingerprint_wakeup_summary">Permitir que el sensor de huellas dactilares despierte el dispositivo mientras la pantalla está apagada</string>
+    <string name="fingerprint_pocketmode_title">Evitar el encendido accidental</string>
+    <string name="fingerprint_pocketmode_summary">Comprueba el sensor de proximidad antes de activar el sensor de huellas dactilares</string>
+    <string name="fingerprint_sleep_title">Apagar con huella dactilar</string>
+    <string name="fingerprint_sleep_summary">Presione el sensor de huella digital para apagar la pantalla</string>
+    <string name="high_touch_sensitivity_title">Sensibilidad táctil alta</string>
+    <string name="high_touch_sensitivity_summary">Aumenta la sensibilidad de la pantalla táctil para que se pueda usar mientras se usan guantes</string>
+    <string name="device_title">Ajustes avanzados del dispositivo</string>
+    <string name="device_summary">Configurar opciones específicas de este dispositivo</string>
+    <string name="display_title">Modos de pantalla</string>
+    <string name="display_summary">Ajustar la configuración y preferencias de la pantalla</string>
+    <string name="srgb_mode_title">modo sRGB</string>
+    <string name="hbm_mode_title">Modo de brillo alto</string>
+    <string name="dc_mode_title">DC-Dimming</string>
+    <string name="dci_mode_title">Display-P3</string>
+    <string name="Wide_mode_title">AMOLED Wide Gamut</string>
+    <string name="panel_category_title">Modos de pantalla</string>
+    <string name="panel_category_summary">Modos para la corrección de color de la pantalla</string>
+    <string name="off_mode_title">Desactivado</string>
+    <string name="tile_panel_mode">Modos de pantalla</string>
+    <string name="tile_hbm_mode">Modos de brillo alto</string>
+    <string name="tile_dc_mode">DC-Dimming</string>
+    <string name="notification_slider_category_title">Deslizador de notificaciones</string>
+    <string name="notification_slider_selection_dialog_title">Acción</string>
+    <string name="notification_slider_top_position">Posición superior</string>
+    <string name="notification_slider_middle_position">Posición media</string>
+    <string name="notification_slider_bottom_position">Posición inferior</string>
+    <string name="notification_slider_mode_total_silence">Silencio total</string>
+    <string name="notification_slider_mode_alarms_only">Solo alarmas</string>
+    <string name="notification_slider_mode_priority_only">Solo prioritarias</string>
+    <string name="notification_slider_mode_silent">Silencio</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <string name="buttons_dashboard_summary">Configuración del interruptor lateral</string>
+    <string name="category_vibrator">Vibración</string>
+    <string name="vib_strength_title_head">Intensidad del sistema</string>
+    <string name="vib_strength_summary_head">Definir la intensidad de la vibración</string>
+    <string name="vib_call_strength_title_head">Intensidad en llamada</string>
+    <string name="vib_call_strength_summary_head">Definir la intensidad de la vibración durante una llamada entrante</string>
+    <string name="vib_notif_strength_title_head">Intensidad en las notificaciones</string>
+    <string name="vib_notif_strength_summary_head">Definir la intensidad de la vibración durante una notificación entrante</string>
+    <string name="pulse_on_new_tracks_title">Indicador de música en pantalla ambiente</string>
+    <string name="pulse_on_new_tracks_summary">Mostrar pantalla ambiente cuando se reproduce una pista de música nueva</string>
+    <string name="quick_charge_title">Carga rápida</string>
+    <string name="quick_charge_summary">Activa la carga rápida. Desenchufa y enchufa el cargador tras cambiar esta opción</string>
+    <string name="camera_focus_fix_title">Fijar enfoque de cámara</string>
+    <string name="camera_focus_fix_summary">Activar si tiene problemas con la cámara al enfocar</string>
+    <string name="wake_on_gesture_title">Despertar con gestos</string>
+    <string name="wake_on_gesture_summary">Despierta el dispositivo en lugar de mostrar notificaciones al realizar gestos</string>
+    <string name="ambient_swipe_title">Deslizar en pantalla ambiente</string>
+    <string name="ambient_swipe_summary">Habilitar el deslizamiento hacia arriba o abajo en pantalla ambiente</string>
+    <string name="moto_gestures_panel_title">Gestos Motorola</string>
+    <string name="alert_slider_selection_dialog_title">Acción</string>
+    <string name="alert_slider_top_position">Posición superior</string>
+    <string name="alert_slider_middle_position">Posición media</string>
+    <string name="alert_slider_bottom_position">Posición inferior</string>
+    <string name="alert_slider_mode_silent">Silencio</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_dnd_priority_only">Solo prioritarias</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silencio total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Solo alarmas</string>
+</resources>

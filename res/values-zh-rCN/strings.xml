@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -63,23 +63,8 @@
     <string name="ambient_display_summary_off">当您收到通知时屏幕将不会唤醒</string>
     <string name="ambient_display_always_on_title">始终开启</string>
     <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息，这会增加耗电量</string>
-    <string name="pulse_ambient_light_enable_title">环境显示侧边亮屏</string>
-    <string name="pulse_ambient_light_title">侧边亮屏</string>
-    <string name="pulse_ambient_light_summary">在通知脉冲上照亮屏幕的侧面边缘</string>
-    <string name="pulse_ambient_light_color_title">侧边亮屏颜色</string>
-    <string name="pulse_ambient_light_color_mode_title">浅色</string>
-    <string name="pulse_ambient_light_color_mode_wall">基于壁纸</string>
-    <string name="pulse_ambient_light_color_mode_accent">强调色</string>
-    <string name="pulse_ambient_light_color_mode_custom">自定义</string>
-    <string name="pulse_ambient_light_color_mode_random">随机</string>
-    <string name="pulse_ambient_light_duration_title">持续时间</string>
-    <string name="pulse_ambient_light_repeat_count_title">重复次数</string>
-    <string name="pulse_ambient_light_repeat_count_summary">设置最大重复次数，0 表示无限</string>
-    <string name="pulse_ambient_light_repeat_direction_title">重复方向</string>
-    <string name="pulse_ambient_light_repeat_direction_summary">启用反向重复方向，禁用以重新启动</string>
-    <string name="pulse_ambient_light_color_automatic_title">使用通知颜色</string>
-    <string name="pulse_ambient_light_color_automatic_summary">亮边使用通知颜色</string>
-    <string name="pulse_ambient_light_width_title">亮边宽度</string>
+    <string name="edge_light_enable_title">环境显示侧边亮屏</string>
+    <string name="edge_light_summary">在通知脉冲上照亮屏幕的侧面边缘</string>
     <string name="tilt_sensor_title">倾斜传感器</string>
     <string name="pickup_sensor_title">拿起传感器</string>
     <string name="proximity_sensor_title">距离传感器</string>
@@ -178,4 +163,14 @@
     <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
     <string name="ambient_swipe_title">主动显示滑动</string>
     <string name="ambient_swipe_summary">启用主动显示屏幕上的上/下滑动</string>
+    <string name="moto_gestures_panel_title">Moto 手势</string>
+    <string name="alert_slider_selection_dialog_title">操作</string>
+    <string name="alert_slider_top_position">顶部位置</string>
+    <string name="alert_slider_middle_position">中间位置</string>
+    <string name="alert_slider_bottom_position">底部位置</string>
+    <string name="alert_slider_mode_silent">静音</string>
+    <string name="alert_slider_mode_normal">标准</string>
+    <string name="alert_slider_mode_dnd_priority_only">仅限优先</string>
+    <string name="alert_slider_mode_dnd_total_silence">总是静音</string>
+    <string name="alert_slider_mode_dnd_alarms_only">仅限闹铃</string>
 </resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2026 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">Aan</string>
+    <string name="switch_bar_off">Uit</string>
+    <string name="device_settings_app_name">Geavanceerde instelingen</string>
+    <string name="screen_gestures_panel_title">Gebaren</string>
+    <string name="touchscreen_gesture_extras">Extra\'s</string>
+    <string name="touchscreen_gesture_haptic_feedback">Haptische feedback</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Trillen wanneer een schermgebaar herkend wordt</string>
+    <string name="touchscreen_gesture_settings_title">Schermgebaren</string>
+    <string name="touchscreen_gesture_settings_summary">Diverse schermgebaren gebruiken voor snelle acties</string>
+    <string name="gesture_display_title">Scherm-uit gebaren</string>
+    <string name="touchscreen_c_gesture_title">Camera</string>
+    <string name="touchscreen_c_gesture_summary">Teken een \"C\" om de camera te activeren</string>
+    <string name="touchscreen_e_gesture_title">E-mail</string>
+    <string name="touchscreen_e_gesture_summary">Teken een \"e\" om de e-mail app te openen</string>
+    <string name="touchscreen_m_gesture_title">Berichten</string>
+    <string name="touchscreen_m_gesture_summary">Teken een \"M\" om berichten-app te openen</string>
+    <string name="touchscreen_s_gesture_title">Berichten</string>
+    <string name="touchscreen_s_gesture_summary">Teken een \"S\" om berichten-app te openen</string>
+    <string name="touchscreen_v_gesture_title">Nummerkiezer</string>
+    <string name="touchscreen_v_gesture_summary">Teken een \"V\" om de nummerkiezer te openen</string>
+    <string name="touchscreen_w_gesture_title">Browser</string>
+    <string name="touchscreen_w_gesture_summary">Teken een \"W\" om de browserapp te openen</string>
+    <string name="touchscreen_z_gesture_title">Zaklamp</string>
+    <string name="touchscreen_z_gesture_summary">Teken een \'Z\' om de zaklamp in of uit te schakelen</string>
+    <string name="touchscreen_flashlight_gesture_title">Zaklamp</string>
+    <string name="touchscreen_flashlight_gesture_summary">Teken een cirkel om de zaklamp in of uit te schakelen</string>
+    <string name="touchscreen_music_gesture_title">Muziek</string>
+    <string name="touchscreen_music_gesture_summary">Gebaren gebruiken om muziek af te spelen \n
+    • Veeg naar beneden om af te spelen/te pauzeren\n
+    • Veeg naar links voor vorig nummer\n
+    • Veeg rechts voor volgend nummer</string>
+    <string name="touchscreen_swipe_up_title">Omhoog vegen</string>
+    <string name="touchscreen_swipe_right_title">Naar rechts vegen</string>
+    <string name="touchscreen_swipe_down_title">Omlaag vegen</string>
+    <string name="touchscreen_swipe_left_title">Naar links vegen</string>
+    <string name="user_aware_display_title">Gebruikers waarschuwingsscherm</string>
+    <string name="ambient_display_enable_summary">Scherm ontwaken wanneer u meldingen ontvangt</string>
+    <string name="ambient_display_summary">Scherm ontwaken wanneer u meldingen ontvangt</string>
+    <string name="ambient_display_summary_on">Scherm gaat aan bij het ontvangen van meldingen</string>
+    <string name="ambient_display_summary_off">Scherm gaat niet aan bij het ontvangen van meldingen</string>
+    <string name="ambient_display_always_on_title">Altijd aan</string>
+    <string name="ambient_display_always_on_summary">Tijd, meldingspictogrammen en andere informatie weergeven. Hoger accuverbruik.</string>
+    <string name="tilt_sensor_title">Kantel sensor</string>
+    <string name="pickup_sensor_title">Bewegingssensor</string>
+    <string name="proximity_sensor_title">Nabijheidssensor</string>
+    <string name="hand_wave_gesture_title">Handgebaar</string>
+    <string name="hand_wave_gesture_summary">Meldingen laten knipperen bij handgebaar</string>
+    <string name="hand_wave_gesture_flat_title">Oriëntatie detecteren</string>
+    <string name="hand_wave_gesture_flat_summary">Alleen knipperen als de telefoon met het scherm naar boven ligt op een plat oppervlak</string>
+    <string name="pick_up_gesture_title">Oppakken</string>
+    <string name="pick_up_gesture_summary">Meldingen laten knipperen bij oppakken</string>
+    <string name="pocket_gesture_title">Zak</string>
+    <string name="pocket_gesture_summary">Meldingen laten knipperen bij verwijderen uit jas- of broekzak</string>
+    <string name="proximity_wake_title">Ontwaken bij dichtbij</string>
+    <string name="proximity_wake_enable_title">Ontwaken bij dichtbij</string>
+    <string name="proximity_wake_enable_summary">Ontwaken bij handgebaar</string>
+    <string name="actions_title">Acties</string>
+    <string name="hand_wave_silencer_title">Handgebaar voor stil</string>
+    <string name="hand_wave_silencer_summary">Inkomende oproepen dempen door je hand over het scherm te zwaaien</string>
+    <string name="flip_to_mute_title">Omdraaien voor \'Niet storen\'</string>
+    <string name="flip_to_mute_summary">Plaats de telefoon met scherm naar beneden om notificaties en oproepen te dempen</string>
+    <string name="lift_to_silence_title">Oppakken om te stoppen met rinkelen</string>
+    <string name="lift_to_silence_summary">Til de telefoon op om binnenkomende oproepen te dempen. Werkt alleen als de telefoon al plat ligt</string>
+    <string name="action_none">Uitschakelen</string>
+    <string name="action_launch_camera">Camera openen</string>
+    <string name="action_torch">Zaklamp aan/uit</string>
+    <string name="feedback_intensity_title">Intensiteit van tril-feedback</string>
+    <string name="feedback_intensity_none">Uitgeschakeld</string>
+    <string name="feedback_intensity_low">Laag</string>
+    <string name="feedback_intensity_medium">Gemiddeld</string>
+    <string name="feedback_intensity_high">Hoog</string>
+    <string name="dialog_ok">OK</string>
+    <string name="disabled">Uitgeschakeld</string>
+    <string name="doze_settings_help_title">Help</string>
+    <string name="button_panel_title">Extra knoppen</string>
+    <string name="button_swap_title">Knoppen verwisselen</string>
+    <string name="button_swap_summary">Recente apps- en Terugknop omwisselen</string>
+    <string name="fingerprint_title">Vingerafdruk</string>
+    <string name="fingerprint_as_home_title">Vingerafdruk als startpagina</string>
+    <string name="fingerprint_as_home_summary">Gebruik de vingerafdruksensor als knop voor de startpagina</string>
+    <string name="fingerprint_wakeup_title">Ontwaken via vingerafdruk</string>
+    <string name="fingerprint_wakeup_summary">Vingerafdruk sensor toestaan het apparaat te ontwaken als scherm uit is</string>
+    <string name="fingerprint_pocketmode_title">Per ongeluk ontwaken voorkomen</string>
+    <string name="fingerprint_sleep_title">Slaapstand via vingerafdruk</string>
+    <string name="fingerprint_sleep_summary">Vingerafdruksensor indrukken om scherm uit te schakelen</string>
+    <string name="high_touch_sensitivity_title">Hoge aanraakgevoeligheid</string>
+    <string name="high_touch_sensitivity_summary">Gevoeligheid van het scherm verhogen, zodat het bediend kan worden met handschoenen</string>
+    <string name="device_title">Geavanceerde apparaatinstellingen</string>
+    <string name="device_summary">Pas apparaatspecifieke instellingen aan</string>
+    <string name="display_title">Weergavemodi</string>
+    <string name="display_summary">Instellingen en voorkeuren voor weergave aanpassen</string>
+    <string name="srgb_mode_title">sRGB modus</string>
+    <string name="hbm_mode_title">Hoge helderheidsmodus</string>
+    <string name="off_mode_title">Uit</string>
+    <string name="tile_hbm_mode">Hoge helderheidsmodi</string>
+    <string name="notification_slider_category_title">Meldingschakelaar</string>
+    <string name="notification_slider_selection_dialog_title">Actie</string>
+    <string name="notification_slider_top_position">Bovenste positie</string>
+    <string name="notification_slider_middle_position">Middelste positie</string>
+    <string name="notification_slider_bottom_position">Onderste positie</string>
+    <string name="notification_slider_mode_total_silence">Totale stilte</string>
+    <string name="notification_slider_mode_alarms_only">Alleen alarmen</string>
+    <string name="notification_slider_mode_priority_only">Alleen prioriteit</string>
+    <string name="notification_slider_mode_silent">Stil</string>
+    <string name="notification_slider_mode_vibrate">Trillen</string>
+    <string name="notification_slider_mode_none">Normaal</string>
+    <string name="buttons_dashboard_summary">Instellingen alert slider</string>
+    <string name="category_vibrator">Trilfunctie</string>
+    <string name="vib_strength_summary_head">Definieer de sterkte van de vibrator</string>
+    <string name="vib_call_strength_summary_head">Definieer de sterkte van de vibrator tijdens een inkomende oproep</string>
+    <string name="vib_notif_strength_summary_head">Definieer de sterkte van de trilstand tijdens een inkomende oproep</string>
+    <string name="pulse_on_new_tracks_title">Muziekticker op inactiviteitsscherm</string>
+    <string name="pulse_on_new_tracks_summary">Toon Ambient Display wanneer een nieuwe track wordt afgespeeld</string>
+    <string name="quick_charge_title">Snelladen</string>
+    <string name="quick_charge_summary">Snelladen in-/uitschakelen en de lader opnieuw koppelen na het wijzigen van deze instelling</string>
+    <string name="camera_focus_fix_title">Camera focus fix</string>
+    <string name="camera_focus_fix_summary">Inschakelen als u problemen heeft met het scherpstellen van de camera</string>
+    <string name="alert_slider_selection_dialog_title">Actie</string>
+    <string name="alert_slider_top_position">Bovenste positie</string>
+    <string name="alert_slider_middle_position">Middelste positie</string>
+    <string name="alert_slider_bottom_position">Onderste positie</string>
+    <string name="alert_slider_mode_silent">Stil</string>
+    <string name="alert_slider_mode_normal">Normaal</string>
+    <string name="alert_slider_mode_dnd_priority_only">Alleen prioriteit</string>
+    <string name="alert_slider_mode_dnd_total_silence">Totale stilte</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Alleen alarmen</string>
+</resources>

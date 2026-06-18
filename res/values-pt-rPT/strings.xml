@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013-2016 The CyanogenMod Project
-               (C) 2017 The LineageOS Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -63,18 +63,8 @@
     <string name="ambient_display_summary_off">Ligar o ecrã quando receber notificações</string>
     <string name="ambient_display_always_on_title">Sempre ligado</string>
     <string name="ambient_display_always_on_summary">Mostrar hora, ícones de notificação e outras informações. Maior uso de bateria.</string>
-    <string name="pulse_ambient_light_enable_title">Iluminação da borda ambiente</string>
-    <string name="pulse_ambient_light_title">Iluminação da borda</string>
-    <string name="pulse_ambient_light_summary">Acenda as bordas laterais da tela no pulso de notificação</string>
-    <string name="pulse_ambient_light_color_title">Definir cor da lâmpada</string>
-    <string name="pulse_ambient_light_color_mode_title">Cor do LED</string>
-    <string name="pulse_ambient_light_color_mode_accent">Realce</string>
-    <string name="pulse_ambient_light_color_mode_custom">Personalizado</string>
-    <string name="pulse_ambient_light_duration_title">Duração da luz</string>
-    <string name="pulse_ambient_light_repeat_count_title">Contagem de testes</string>
-    <string name="pulse_ambient_light_repeat_count_summary">Definir contagem máxima de repetição. 0 para infinito</string>
-    <string name="pulse_ambient_light_repeat_direction_title">Repetir direção</string>
-    <string name="pulse_ambient_light_repeat_direction_summary">Ativar para repetir o reverso, desativar para reiniciar</string>
+    <string name="edge_light_enable_title">Iluminação da borda ambiente</string>
+    <string name="edge_light_summary">Acenda as bordas laterais da tela no pulso de notificação</string>
     <string name="tilt_sensor_title">Sensor de inclinação</string>
     <string name="pickup_sensor_title">Sensor de movimento</string>
     <string name="proximity_sensor_title">Sensor de proximidade</string>
@@ -168,4 +158,13 @@
     <string name="quick_charge_summary">Ativar/desativar o carregamento rápido. Desconecte e reconecte o carregador após alterar esta configuração</string>
     <string name="camera_focus_fix_title">Correção do foco da câmara</string>
     <string name="camera_focus_fix_summary">Ative se tiver problemas com a focagem da câmara</string>
+    <string name="alert_slider_selection_dialog_title">Ação</string>
+    <string name="alert_slider_top_position">Em cima</string>
+    <string name="alert_slider_middle_position">No meio</string>
+    <string name="alert_slider_bottom_position">Em baixo</string>
+    <string name="alert_slider_mode_silent">Silêncio</string>
+    <string name="alert_slider_mode_normal">Normal</string>
+    <string name="alert_slider_mode_dnd_priority_only">Apenas prioridade</string>
+    <string name="alert_slider_mode_dnd_total_silence">Silêncio total</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Apenas alarmes</string>
 </resources>
